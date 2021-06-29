@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item android:id="@+id/nagative_vedio"
+    android:title="Vedio Lectures"
+    android:icon="@drawable/ic_gallery">
+  </item>
+    <item android:id="@+id/nagative_ebook"
+        android:title="Ebook"
+        android:icon="@drawable/ic_gallery">
+    </item>
+    <item android:id="@+id/nagative_themes"
+        android:title="Themes"
+        android:icon="@drawable/ic_gallery">
+    </item>
+    <item android:id="@+id/nagative_website"
+        android:title="Website"
+        android:icon="@drawable/ic_gallery">
+    </item>
+    <item android:id="@+id/nagative_sheare"
+        android:title="Sheare"
+        android:icon="@drawable/ic_gallery">
+    </item>
+    <item android:id="@+id/nagative_rate"
+        android:title="Rate Us"
+        android:icon="@drawable/ic_gallery">
+    </item>
+    <item android:id="@+id/nagative_developer"
+        android:title="Developer"
+        android:icon="@drawable/ic_gallery">
+    </item>
+
+</menu>

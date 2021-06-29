@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Collage App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+
+    <string name="about_collage">Daffodils, also known by their botanical name narcissus, are easy and reliable spring-flowering bulbs. They multiply quickly and return to bloom again each spring, year after year. ... Yellow is the most common color for daffodils, but the blossoms also come in white, cream, orange and even pink.</string>
+
+</resources>

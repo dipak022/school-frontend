@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"></item>
+    <item android:id="@+id/navigation_newsfeed"
+        android:icon="@drawable/ic_feed"
+        android:title="NewsFeed"></item>
+    <item android:id="@+id/navigation_faculty"
+        android:icon="@drawable/ic_faculty"
+        android:title="Faculty"></item>
+    <item android:id="@+id/navigation_gallery"
+        android:icon="@drawable/ic_gallery"
+        android:title="Gallery"></item>
+    <item android:id="@+id/navigation_about"
+        android:icon="@drawable/ic_gallery"
+        android:title="About"></item>
+</menu>
